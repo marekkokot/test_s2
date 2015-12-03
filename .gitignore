@@ -1,0 +1,7 @@
+*.sln
+*.sdf
+Debug\
+Release\
+.vs
+*.opensdf
+
