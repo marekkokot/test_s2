@@ -1,4 +1,7 @@
 #pragma once
 
 
-inline void nothing() {}
+inline void nothing() 
+{
+
+}
